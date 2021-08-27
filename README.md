@@ -4,7 +4,7 @@ Instruction on how to run the program
 Install the latest version of Anaconda which includes Python version 3.8 and Jupyter Notebook version 6.3.0. 
 The program is written in Jupyter Notebook using python language.
 
-Click on file 'Exercise.ipynb', the code, explanation, results/reports can be viewed there. To download the .ipynb file (Jupyter Notebook), click on the Download button on the upper right corner of the page.
+Click on file 'Exercise.ipynb', the code, explanation, results/reports can be viewed there. To download the .ipynb file (Jupyter Notebook), click on the Download button on the upper right corner of the page Exercise.ipynb.
 
 Save the downloaded Exercise.ipynb and BeerDataScienceProject.csv in the same folder before running Exercise.ipynb.
 
